@@ -1,11 +1,9 @@
 body{
-    margin: 0;
-    padding: 0;
     background: linear-gradient(25deg,#091ed8,#6cd38e 50%);
     display: flex;
     justify-content: center;
     align-items: center;
-    min-hight: 100vh;
+    height: 100vh;
     font-family: sans-serif;
 }
 
